@@ -1,3 +1,8 @@
 [user]
     email = liam@umiacs.umd.edu
     name = Liam Monahan
+    signingkey = FE0C32F191C9715A
+[commit]
+    gpgsign = true
+[tag]
+    forceSignAnnotated = true
